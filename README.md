@@ -1,16 +1,24 @@
-## Hi there 👋
+### Mirza Umar Shabbir | AI Systems & Integration Engineer
 
-<!--
-**MirzaUmar1/MirzaUmar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I architect and deploy applied AI systems, low-latency audio pipelines, and enterprise backend integrations that automate real-world business operations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Core Capabilities & Stack
+- **AI & Computer Vision:** TensorFlow, Keras, Xception, Multimodal LLM Reasoning (Gemini API), Saliency Maps / XAI
+- **Backend & Integrations:** Node.js, Express, REST APIs, OAuth 2.0 / Azure Active Directory, Microsoft Dynamics 365
+- **Voice AI & Infrastructure:** LiveKit, WebRTC, Streaming Audio (Deepgram STT, Cartesia TTS), Railway CI/CD
+
+---
+
+### 🚀 Featured Deployments
+
+- **[tumor-vision](https://github.com/MirzaUmar1/tumor-vision)**  
+  End-to-end brain tumor MRI classification platform utilizing transfer learning (Xception) combined with Gemini 1.5 Flash for multimodal clinical explainability and saliency maps. Developed as a Capstone Project for Samsung Innovation Campus.
+
+- **[dynamics365-lead-ingestion-bridge](https://github.com/MirzaUmar1/dynamics365-lead-ingestion-bridge)**  
+  Production-grade Node.js/Express middleware deployed on Railway to ingest, validate, and synchronize external web form leads directly into Microsoft Dynamics 365 Web API v9.2 via Azure AD OAuth 2.0.
+
+---
+
+📫 **Connect:** [LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com)
